@@ -49,16 +49,17 @@ The report is structured into three interactive views:
 ## 📽️ Reference Video
 [Watch the Dashboard Walkthrough](https://www.linkedin.com/feed/update/urn:li:activity:7310734296049156098?utm_source=share&utm_medium=member_android&rcm=ACoAAD2Q0b8BYXeDJMbKJ6exGzSDCMJZ8DWwWmA)
 
+Click the image above to watch the video walkthrough of the dashboard.
+
 ## 📂 Project Files
-- `coffee_sales.pbix` (Power BI file)
 - [📄 Coffee_sales_Dataset.csv](https://raw.githubusercontent.com/sairish/Coffee-Shop-Sales-Dashboard_PowerBI/refs/heads/main/Coffee_sales_Dataset.csv)
 - [`README.md`](https://github.com/sairish/Coffee-Shop-Sales-Dashboard_PowerBI/blob/main/README.md)
 
 
-## 🚀 Getting Started
-1. Download the `coffee_sales.pbix` file.
-2. Open the file in Power BI Desktop.
-3. Interact with the report and explore insights.
+
 
 ## 📧 Contact
 If you have any questions or feedback, feel free to connect with me on LinkedIn or leave a comment.
+- 👨‍💻 All of my projects are available at [My Portfolio](https://sairish.github.io/)
+
+- 📫 How to reach me **mailtosairishitha@gmail.com**
