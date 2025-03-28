@@ -42,17 +42,18 @@ The report is structured into three interactive views:
 - **Excel & CSV** for data sources
 
 ## 📸 Screenshots & Demonstration
-- ![Executive Dashboard](path-to-image-1)
-- ![Product View](https://raw.githubusercontent.com/sairish/Coffee-Shop-Sales-Dashboard_PowerBI/refs/heads/main/coffee_sales_DataSet.csv)
-- ![Customer View](path-to-image-3)
+- ![Executive Dashboard](https://github.com/sairish/Coffee-Shop-Sales-Dashboard_PowerBI/blob/main/Resources/Exec%20View%20Page.png)
+- ![Product View](https://github.com/sairish/Coffee-Shop-Sales-Dashboard_PowerBI/blob/main/Resources/Prod%20View%20Page.png)
+- ![Customer View](https://github.com/sairish/Coffee-Shop-Sales-Dashboard_PowerBI/blob/main/Resources/Cust%20View%20Page.png)
 
 ## 📽️ Reference Video
-[Watch the Dashboard Walkthrough](insert-link-here)
+[Watch the Dashboard Walkthrough](https://www.linkedin.com/feed/update/urn:li:activity:7310734296049156098?utm_source=share&utm_medium=member_android&rcm=ACoAAD2Q0b8BYXeDJMbKJ6exGzSDCMJZ8DWwWmA)
 
 ## 📂 Project Files
 - `coffee_sales.pbix` (Power BI file)
-- ![Coffee_sales_Dataset] (https://raw.githubusercontent.com/sairish/Coffee-Shop-Sales-Dashboard_PowerBI/refs/heads/main/Coffee_sales_Dataset.csv)
-- `README.md` (Project documentation)
+- [📄 Coffee_sales_Dataset.csv](https://raw.githubusercontent.com/sairish/Coffee-Shop-Sales-Dashboard_PowerBI/refs/heads/main/Coffee_sales_Dataset.csv)
+- [`README.md`](https://github.com/sairish/Coffee-Shop-Sales-Dashboard_PowerBI/blob/main/README.md)
+
 
 ## 🚀 Getting Started
 1. Download the `coffee_sales.pbix` file.
