@@ -43,7 +43,7 @@ The report is structured into three interactive views:
 
 ## 📸 Screenshots & Demonstration
 ![Executive Dashboard](path-to-image-1)
-![Product View](path-to-image-2)
+![Product View](https://raw.githubusercontent.com/sairish/Coffee-Shop-Sales-Dashboard_PowerBI/refs/heads/main/coffee_sales_DataSet.csv)
 ![Customer View](path-to-image-3)
 
 ## 📽️ Reference Video
@@ -51,7 +51,7 @@ The report is structured into three interactive views:
 
 ## 📂 Project Files
 - `coffee_sales.pbix` (Power BI file)
-- `dataset.csv` (Sample data)
+- ![`coffee_sales_DataSet.csv`] (https://raw.githubusercontent.com/sairish/Coffee-Shop-Sales-Dashboard_PowerBI/refs/heads/main/coffee_sales_DataSet.csv)
 - `README.md` (Project documentation)
 
 ## 🚀 Getting Started
