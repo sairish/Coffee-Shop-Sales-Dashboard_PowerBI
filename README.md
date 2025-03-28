@@ -42,16 +42,16 @@ The report is structured into three interactive views:
 - **Excel & CSV** for data sources
 
 ## 📸 Screenshots & Demonstration
-![Executive Dashboard](path-to-image-1)
-![Product View](https://raw.githubusercontent.com/sairish/Coffee-Shop-Sales-Dashboard_PowerBI/refs/heads/main/coffee_sales_DataSet.csv)
-![Customer View](path-to-image-3)
+- ![Executive Dashboard](path-to-image-1)
+- ![Product View](https://raw.githubusercontent.com/sairish/Coffee-Shop-Sales-Dashboard_PowerBI/refs/heads/main/coffee_sales_DataSet.csv)
+- ![Customer View](path-to-image-3)
 
 ## 📽️ Reference Video
 [Watch the Dashboard Walkthrough](insert-link-here)
 
 ## 📂 Project Files
 - `coffee_sales.pbix` (Power BI file)
-- ![`coffee_sales_DataSet.csv`] (https://raw.githubusercontent.com/sairish/Coffee-Shop-Sales-Dashboard_PowerBI/refs/heads/main/coffee_sales_DataSet.csv)
+- ![Coffee_sales_Dataset] (https://raw.githubusercontent.com/sairish/Coffee-Shop-Sales-Dashboard_PowerBI/refs/heads/main/Coffee_sales_Dataset.csv)
 - `README.md` (Project documentation)
 
 ## 🚀 Getting Started
