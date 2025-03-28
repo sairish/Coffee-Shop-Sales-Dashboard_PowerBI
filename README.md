@@ -49,7 +49,7 @@ The report is structured into three interactive views:
 ## 📽️ Reference Video
 [Watch the Dashboard Walkthrough](https://www.linkedin.com/feed/update/urn:li:activity:7310734296049156098?utm_source=share&utm_medium=member_android&rcm=ACoAAD2Q0b8BYXeDJMbKJ6exGzSDCMJZ8DWwWmA)
 
-Click the image above to watch the video walkthrough of the dashboard.
+Click the above link to watch the video walkthrough of the dashboard.
 
 ## 📂 Project Files
 - [📄 Coffee_sales_Dataset.csv](https://github.com/sairish/Coffee-Shop-Sales-Dashboard_PowerBI/blob/094afd77bb37bbee13db38b1fee18a9224cb30ee/Coffee_sales_Dataset.csv)
