@@ -1,4 +1,5 @@
-# Coffee Sales Analysis Dashboard
+# Coffee Sales Analysis Dashboard 
+[Click Here to Watch the Dashboard Walkthrough↗️](https://www.linkedin.com/feed/update/urn:li:activity:7310734296049156098?utm_source=share&utm_medium=member_android&rcm=ACoAAD2Q0b8BYXeDJMbKJ6exGzSDCMJZ8DWwWmA)
 
 ## 📌 Project Overview
 This Power BI dashboard provides an in-depth analysis of coffee sales across the United States for the years 2023 and 2024. The dashboard is designed to help businesses understand customer behavior, product preferences, regional performance, and time-based sales trends.
