@@ -61,7 +61,7 @@ Click the above link to watch the video walkthrough of the dashboard.
 
 ## 💡 Want to see more of my work? 
 If you have any questions or feedback, feel free to connect with me on LinkedIn or leave a comment.
-- 👨‍💻 All of my projects are available at <a href="https://sairish.github.io/" target="_blank">My Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://sairish.github.io/" target="_blank" rel="noopener noreferrer">My Portfolio</a>
 - 🔗 <a href="https://www.linkedin.com/in/venkatasairishitha" target="_blank">LinkedIn Page</a>
 - 🌐 <a href="https://github.com/sairish" target="_blank">GitHub Page</a>
 ## 📧 Contact 
